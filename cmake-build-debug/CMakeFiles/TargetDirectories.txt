@@ -1,0 +1,3 @@
+C:/Users/steven/Desktop/tarea librerias para manejo de archivos/cmake-build-debug/CMakeFiles/tarea_librerias.dir
+C:/Users/steven/Desktop/tarea librerias para manejo de archivos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/steven/Desktop/tarea librerias para manejo de archivos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
